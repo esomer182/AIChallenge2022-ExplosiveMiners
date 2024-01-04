@@ -1,4 +1,4 @@
-# AI-Challenge-2022-Explosive-miners
+# AIChallenge2022-ExplosiveMiners
 
 AI Challenge is an artificial intelligence competition in Java open to high school students from Catalonia. Individually or as a team, you must implement the strategy for a given game and test your skills against the strategies of other players.
 
